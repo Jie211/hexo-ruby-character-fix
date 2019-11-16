@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Jie211/hexo-ruby-character-fix.svg?branch=master)](https://travis-ci.org/Jie211/hexo-ruby-character-fix)
+
 # hexo-ruby-character-ex
 
 forked from https://github.com/issiki/hexo-ruby-character-ex
