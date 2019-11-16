@@ -1,0 +1,27 @@
+{
+  "name": "hexo-ruby-character-fix",
+  "version": "1.0.0",
+  "description": "fix for hexo-ruby-character",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jie211/hexo-ruby-character-fix.git"
+  },
+  "keywords": [
+    "hexo",
+    "ruby-charater",
+    "pinyin"
+  ],
+  "author": "jie211 <jie211.jp@gmail.com> (https://jie211.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jie211/hexo-ruby-character-fix/issues"
+  },
+  "homepage": "https://github.com/Jie211/hexo-ruby-character-fix#readme",
+  "dependencies": {
+    "pinyin": "^2.9.0"
+  }
+}
